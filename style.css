@@ -26,7 +26,7 @@ body{
   font-weight: 100;
 }
 .box h7{
-  font-size: 15px;
+  font-size: 18px;
   letter-spacing: 2px;
   font-weight: 100;
 }
@@ -53,13 +53,4 @@ ul{
   color: #b9b9b9;
 }
 
-@media screen and (max-width: 700px) {
-  .box{   
-    box-sizing: border-box; 
-    width: 50%;
-    padding-left: 10%
-    padding-right: 10%;
-    padding-top: 60px;
-    padding-bottom: 60px;
-  }
 }
