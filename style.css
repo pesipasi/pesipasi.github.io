@@ -52,14 +52,6 @@ ul{
 .box li a:hover{
   color: #b9b9b9;
 }
-@media screen and (max-width: 700px) {
-  .box{   
-    box-sizing: border-box; 
-    width: 50%;
-    padding-left: 50%
-    padding-right: 50%;
-    padding-top: 60px;
-    padding-bottom: 60px;
-  }
+
 
 }
